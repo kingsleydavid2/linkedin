@@ -11,11 +11,12 @@
     <version>6.11</version>
     <scope>test</scope>
 </dependency>
- <dependency>
+<dependency>
     <groupId>org.seleniumhq.selenium</groupId>
-    <artifactId>selenium-server-standalone</artifactId>
-    <version>2.53.0</version>
+    <artifactId>selenium-server</artifactId>
+    <version>3.4.0</version>
 </dependency>
+
 
 
 
