@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="260" started-at="2017-06-24T05:15:03Z" finished-at="2017-06-24T05:15:04Z">
+  <suite name="Default suite" duration-ms="47220" started-at="2017-07-05T06:23:57Z" finished-at="2017-07-05T06:24:45Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="260" started-at="2017-06-24T05:15:03Z" finished-at="2017-06-24T05:15:04Z">
-      <class name="linkedin1.test2">
-        <test-method status="PASS" signature="test23()[pri:0, instance:linkedin1.test2@3bfdc050]" name="test23" duration-ms="175" started-at="2017-06-23T22:15:03Z" finished-at="2017-06-23T22:15:04Z">
+    <test name="Default test" duration-ms="47220" started-at="2017-07-05T06:23:57Z" finished-at="2017-07-05T06:24:45Z">
+      <class name="linkedin1.linkedinlogin">
+        <test-method status="PASS" signature="linkedin()[pri:0, instance:linkedin1.linkedinlogin@7cd62f43]" name="linkedin" duration-ms="47002" started-at="2017-07-04T23:23:58Z" finished-at="2017-07-04T23:24:45Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test23 -->
-      </class> <!-- linkedin1.test2 -->
+        </test-method> <!-- linkedin -->
+      </class> <!-- linkedin1.linkedinlogin -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

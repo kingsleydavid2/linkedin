@@ -14,6 +14,7 @@ public class linkedinlogin {
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.navigate().to("http://linkedin.com");
+		System.out.println("Browser opened, Test Passed");
 
 		
 	}
